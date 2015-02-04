@@ -10,7 +10,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
-//dfdfd
+//dfdfd ghg
 public class AndroidBarcodeQrExample extends Activity {
     /** Called when the activity is first created. */
 
